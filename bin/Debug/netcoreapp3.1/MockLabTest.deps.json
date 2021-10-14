@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MockLabTest/1.0.0": {
+        "runtime": {
+          "MockLabTest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MockLabTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

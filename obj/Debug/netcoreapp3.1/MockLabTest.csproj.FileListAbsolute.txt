@@ -1,0 +1,14 @@
+C:\Users\Gil\source\repos\MockLabTest\MockLabTest\bin\Debug\netcoreapp3.1\MockLabTest.exe
+C:\Users\Gil\source\repos\MockLabTest\MockLabTest\bin\Debug\netcoreapp3.1\MockLabTest.deps.json
+C:\Users\Gil\source\repos\MockLabTest\MockLabTest\bin\Debug\netcoreapp3.1\MockLabTest.runtimeconfig.json
+C:\Users\Gil\source\repos\MockLabTest\MockLabTest\bin\Debug\netcoreapp3.1\MockLabTest.runtimeconfig.dev.json
+C:\Users\Gil\source\repos\MockLabTest\MockLabTest\bin\Debug\netcoreapp3.1\MockLabTest.dll
+C:\Users\Gil\source\repos\MockLabTest\MockLabTest\bin\Debug\netcoreapp3.1\MockLabTest.pdb
+C:\Users\Gil\source\repos\MockLabTest\MockLabTest\obj\Debug\netcoreapp3.1\MockLabTest.csproj.AssemblyReference.cache
+C:\Users\Gil\source\repos\MockLabTest\MockLabTest\obj\Debug\netcoreapp3.1\MockLabTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gil\source\repos\MockLabTest\MockLabTest\obj\Debug\netcoreapp3.1\MockLabTest.AssemblyInfoInputs.cache
+C:\Users\Gil\source\repos\MockLabTest\MockLabTest\obj\Debug\netcoreapp3.1\MockLabTest.AssemblyInfo.cs
+C:\Users\Gil\source\repos\MockLabTest\MockLabTest\obj\Debug\netcoreapp3.1\MockLabTest.csproj.CoreCompileInputs.cache
+C:\Users\Gil\source\repos\MockLabTest\MockLabTest\obj\Debug\netcoreapp3.1\MockLabTest.dll
+C:\Users\Gil\source\repos\MockLabTest\MockLabTest\obj\Debug\netcoreapp3.1\MockLabTest.pdb
+C:\Users\Gil\source\repos\MockLabTest\MockLabTest\obj\Debug\netcoreapp3.1\MockLabTest.genruntimeconfig.cache
